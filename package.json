@@ -1,0 +1,16 @@
+{ "name": "connectors"
+, "version": "0.0.0-almost"
+, "description": "A minimal library for managing dataflow"
+, "license": "MIT"
+
+, "contributors":
+  [ { "name": "Tomek Wiszniewski"
+    , "email": "t.wiszniewski@gmail.com"
+    }
+  ]
+
+, "repository":
+  { "type": "git"
+  , "url": "https://github.com/tomekwi/connectors.js.git"
+  }
+}
