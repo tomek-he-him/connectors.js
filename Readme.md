@@ -1,4 +1,6 @@
-# ![connectors](http://rawgit.com/tomekwi/connectors.js/master/assets/logo.svg)
+<h1 align="center">
+  <img alt="connectors" src="http://rawgit.com/tomekwi/connectors.js/master/assets/logo.svg" />
+</h1>
 
 This is soon to become a minimal library for managing dataflow processes. Code-over-configuration and callbacks everywhere. For browsers as well as node.
 
