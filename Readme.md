@@ -18,4 +18,4 @@ Yup, there's no excuse. What's ready at the moment is the idea, the name and som
 
 If you really, really need this name, feel free to contact me at t.wiszniewski@gmail.com
 
-**Update:** I’ve set the name free long ago, by the way. Feel free to use the name and the logo, if you want.
+**Update:** I set the name free long ago, by the way. Feel free to use the name and the logo, if you want.
